@@ -418,7 +418,7 @@ Temporary Items
 /[Aa]ssets/Plugins/Editor/JetBrains*
 
 # Ignoring files to big for Git
-/[Aa]ssets/NotFitForGit/
+/[Aa]ssets/NotFitForGit/**
 
 # Visual Studio cache directory
 
