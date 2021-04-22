@@ -436,7 +436,7 @@ Assets/B/
 
 
 # Ignoring files to big for Git
-Assets/NotFitForGit/
+*/Assets/NotFitForGit/
 #-------------------------------
 
 # Visual Studio cache directory
