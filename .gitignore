@@ -420,14 +420,14 @@ Temporary Items
 
 #---------------------------------
 #Olivers grejer
-Temp/
+*/Temp/
 Obj/
 UnityGenerated/
-Library/
+*/Library/
 Logs/
 Build/
 Assets/AssetStoreTools*
-Assets/Temp/
+*/Assets/Temp/
 Assets/Temp.meta
 
 Assets/A/
