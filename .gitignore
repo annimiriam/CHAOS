@@ -430,6 +430,8 @@ Assets/AssetStoreTools*
 Assets/Temp/
 Assets/Temp.meta
 
+Assets/A/
+
 
 # Ignoring files to big for Git
 Assets/NotFitForGit/
