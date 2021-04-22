@@ -667,3 +667,4 @@ $RECYCLE.BIN/
 *.tlog
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,csharp,macos,unity,visualstudio
+CHAOS/Temp/UnityLockfile
